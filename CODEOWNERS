@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @mdfad-tech
+/src/backend/database.py      @mdfad-tech
+/src/backend/routers/auth.py  @mdfad-tech
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @mdfad-tech
